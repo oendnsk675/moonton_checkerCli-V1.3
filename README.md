@@ -14,7 +14,7 @@ Tool Moonton checker dari eastlombok team,di buat oleh sayidina ahmadal qososyi,
 
 1. update and upgrade dulu.
 ```bash
- apt update && upgrade
+ apt update && apt upgrade
 ```
 2. install python dulu guys.
 ```bash
