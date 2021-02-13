@@ -8,6 +8,7 @@ Tool Moonton checker dari eastlombok team,di buat oleh sayidina ahmadal qososyi,
 2. futures
 3. request
 4. userAgent
+5. pysocks
 ```
 
 ## Installation on termux
